@@ -1,0 +1,114 @@
+{
+  "results":  [
+    {
+      "name": "bike-alpha",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Hostel Gate",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-alpha",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Main Gate",
+      "isAvailable" : true,
+      "isOccupied" : true
+    },
+    {
+      "name": "bike-alpha",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Hostel Gate",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-beta",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Main Gate",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-gamma",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "CSE block",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-delta",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Hostel Gate",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-epislon",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "CSE block",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-sigma",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Hostel Gate",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-iota",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Hostel Gate",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-theta",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Hostel Gate",
+      "isAvailable" : true,
+      "isOccupied" : false
+    },
+    {
+      "name": "bike-omega",
+      "icon" : "https://img.icons8.com/fluency/256/bike-parking.png",
+      "photos" : [
+          "https://cdn.pixabay.com/photo/2016/11/18/12/49/bicycle-1834265_960_720.jpg"
+      ],
+      "address" : "Hostel Gate",
+      "isAvailable" : true,
+      "isOccupied" : false
+    }
+  ]    
+}
