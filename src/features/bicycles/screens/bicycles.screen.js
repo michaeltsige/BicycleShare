@@ -43,7 +43,7 @@ export const BicyclesScreen = ({ navigation }) => {
       <BicycleList
         data={bicycles}
         renderItem={({ item }) => {
-          return (
+          return(
             <TouchableOpacity
               onPress={() =>
                 navigation.navigate("BicycleDetail", {

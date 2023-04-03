@@ -9,6 +9,7 @@ import { SafeArea } from "../../components/utility/safe-area.component";
 import { BicyclesNavigator } from "./bicycles.navigator";
 
 import { About } from "../../features/about/about.screen";
+import { Account } from "../../features/account/account.screen";
 
 const Tab = createBottomTabNavigator();
 
@@ -18,12 +19,6 @@ const TAB_ICON = {
   About: "md-about",
 };
 
-
-const Account = () => (
-  <SafeArea>
-    <Text>Account</Text>
-  </SafeArea>
-);
 
 const createScreenOptions = ({ route }) => {
   const iconName = TAB_ICON[route.name];
